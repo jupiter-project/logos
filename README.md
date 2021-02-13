@@ -1,4 +1,4 @@
-# logos
+# Logos and colors for Jupiter
 Different sized logos and current hex colors <p>
 
 #006937 - gradient dark<p>
